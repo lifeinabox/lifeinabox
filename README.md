@@ -73,4 +73,4 @@ Actualmente explorando **Python, JavaScript, Git y administración de servidores
 
 ---
 
-⭐️ From [USERNAME](https://github.com/lifeinabox)
+⭐️ From [lifeinabox](https://github.com/lifeinabox)
