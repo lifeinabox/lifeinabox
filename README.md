@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Manny | ¡Hola, soy Manny!
 
-[![GitHub followers](https://img.shields.io/github/followers/USERNAME?label=Follow&style=social)](https://github.com/lifeinabox)
+[![GitHub followers](https://img.shields.io/github/followers/lifeinabox?label=Follow&style=social)](https://github.com/lifeinabox)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://lwww.linkedin.com/in/manny-sanchez-888500135)
 
 ---
