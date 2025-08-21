@@ -53,9 +53,9 @@ Actualmente explorando **Python, JavaScript, Git y administración de servidores
 
 ## 📫 Contact | Contacto
 
-- ✉️ Email: [your.email@example.com](mailto:manny@lifeinaboxmedia.com)  
-- 💼 LinkedIn: [linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/manny-sanchez-888500135)  
-- 🐙 GitHub: [github.com/USERNAME](https://github.com/lifeinabox)  
+- ✉️ Email: [Contact me](mailto:manny@lifeinaboxmedia.com)  
+- 💼 LinkedIn: [linkedin.com/in/MannySanchezCreates](https://www.linkedin.com/in/manny-sanchez-888500135)  
+- 🐙 GitHub: [github.com/lifeinabox](https://github.com/lifeinabox)  
 
 ---
 
