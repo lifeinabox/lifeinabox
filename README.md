@@ -71,6 +71,10 @@ Actualmente explorando **Python, JavaScript, Git y administración de servidores
 - Soy fotógrafo 📸 y disfruto contar historias visuales.  
 - Fiel creyente en aprender haciendo.  
 
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/4d6f754e-aea1-4049-b1a7-6c6312622cf7/thumbnail" >
+</p>
 ---
 
 ⭐️ From [lifeinabox](https://github.com/lifeinabox)
